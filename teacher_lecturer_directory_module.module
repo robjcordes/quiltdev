@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Teacher Lecturer Directory Module feature.
+ */
+
+include_once 'teacher_lecturer_directory_module.features.inc';
